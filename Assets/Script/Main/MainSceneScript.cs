@@ -15,8 +15,6 @@ public class MainSceneScript : MonoBehaviour
             SceneManager.LoadScene("IntroScene");
         });
     }
-
-    // Update is called once per frame
     void Update()
     {
         
